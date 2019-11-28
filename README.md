@@ -1,9 +1,9 @@
-# 📦 Component Name - changelog
+# 📦 Progress Bar - changelog
 
-Use this repository to report bugs and get notified about changes affecting the Component Name component.
+Use this repository to report bugs and get notified about changes affecting the Progress Bar component.
 
-- [Live Demo](https://codyhouse.co/ds/components/app/component-name)
-- [Info Page](https://codyhouse.co/ds/components/info/component-name)
+- [Live Demo](https://codyhouse.co/ds/components/app/progress-bar)
+- [Info Page](https://codyhouse.co/ds/components/info/progress-bar)
 
 Before reporting a bug, please make sure to check the 'info page' of the component. 
 
